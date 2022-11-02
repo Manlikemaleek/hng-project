@@ -35,7 +35,7 @@ const links = () => {
                             
                             <FaSlack className='text-black text-3xl mr-2' />
                             <FaGithub className='text-black text-3xl ml-3 ' />
-                            
+
 							
 		</div>
 
