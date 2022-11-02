@@ -27,7 +27,7 @@ const links = () => {
         </div>
 
         <div className='flex items-center justify-center flex-col bg-[#EAECF0] w-[100%] h-[76px] lg:ml-[10px] mt-8 '>
-            <a href="https://books.zuri.team/design-rules"><button className='px-4 py-2 text-black rounded-xl'> Design Books </button></a>
+            <a href=" https://books.zuri.team/design-rules "><button className='px-4 py-2 text-black rounded-xl'> Design Books </button></a>
         </div>
 
 
