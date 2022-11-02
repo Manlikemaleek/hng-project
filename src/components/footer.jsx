@@ -15,6 +15,7 @@ const footer = () => {
             <p className='text-xl text-[#667085] lg:mr-48'>HNG Internship 9 Frontend Task</p>
 
             <img className='w-[132PX] h-[32px] ' src={Logo} alt="" />
+            
         </div>
 
         
